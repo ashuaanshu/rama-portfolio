@@ -187,7 +187,7 @@ const Portfolio = () => {
                 Get In Touch
               </button>
               <button 
-                onClick={() => scrollToSection('services')}
+                onClick={() => scrollToSection('showcase')}
                 className="border-2 border-purple-600 text-purple-600 px-8 py-4 rounded-full font-semibold hover:bg-purple-600 hover:text-white transition-all duration-300"
               >
                 View My Work
