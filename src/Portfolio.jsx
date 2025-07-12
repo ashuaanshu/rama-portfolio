@@ -43,11 +43,11 @@ const Portfolio = () => {
   },
   {
     photo: "a2.png",
-    url: "https://www.canamgroup.com/blog/"
+    url: "https://www.canamgroup.com/"
   },
   {
     photo: "a3.png",
-    url: "https://kaunsacollege.com/blog/"
+    url: "https://kaunsacollege.com/"
   },
   {
     photo: "a4.png",
