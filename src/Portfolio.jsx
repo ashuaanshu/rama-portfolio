@@ -291,7 +291,7 @@ const Portfolio = () => {
 
 
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 p-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 p-6 p-2">
       {services.map((service, index) => (
         <a
           key={index}
@@ -301,7 +301,7 @@ const Portfolio = () => {
           <img
             src={service.photo}
             alt={`Service ${index}`}
-            className="w-full h-64 object-cover p-2"
+            className="w-full h-64 object-cover"
           />
         </a>
       ))}
