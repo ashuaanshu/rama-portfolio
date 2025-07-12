@@ -39,15 +39,15 @@ const Portfolio = () => {
   const services = [
   {
     photo: "a1.png",
-    url: "https://ittrainingsinstitute.in/oracle-apex-training-chandigarh-mohali/"
+    url: "https://ittrainingsinstitute.in/"
   },
   {
     photo: "a2.png",
-    url: "https://www.canamgroup.com/blog/mastering-ielts-speaking-part-1-expert-answers-and-tips"
+    url: "https://www.canamgroup.com/blog/"
   },
   {
     photo: "a3.png",
-    url: "https://kaunsacollege.com/blog/best-agriculture-courses-colleges-jobs-after-12th"
+    url: "https://kaunsacollege.com/blog/"
   },
   {
     photo: "a4.png",
