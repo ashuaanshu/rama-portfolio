@@ -301,7 +301,7 @@ const Portfolio = () => {
           <img
             src={service.photo}
             alt={`Service ${index}`}
-            className="w-full h-64 object-cover"
+            className="w-full h-64 object-cover p-2"
           />
         </a>
       ))}
